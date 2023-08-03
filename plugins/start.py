@@ -88,9 +88,9 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Join Channel 1", url='https://t.me/ianimehub'),
-                    InlineKeyboardButton("Join Channel 2", url='https://t.me/imoviesrobot_channel'),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton("Join Channel 1", url='https://t.me/premium_c00ntent'),
+                    InlineKeyboardButton("Join Channel 2", url='https://t.me/+9kZLG8GIg7dkNDI1'),
+                    InlineKeyboardButton("🤖 MORE", url='https://t.me/iadulthub')
                 ]
             ]
         )
